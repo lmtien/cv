@@ -1,20 +1,50 @@
-# Experience template
+# Experience
 - layout: left
   company: Traveloka
   link: https://www.traveloka.com
   job_title: Backend Team Lead
   dates: Jan 2019 – Present
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role 
+    Traveloka is a leading Southeast Asia online travel company that provides a wide range of travel needs in one platform, enabling customers to create moments together with their loved ones
+  description: |
+    Managing and leading Traveloka Bill payment & Top-up project.
+      - Take up the responsibility of the entire Project.
+      - Developing the detailed design structure after understanding the requirements and the design.
+      - Design, build, and maintain APIs, services, and systems across engineering team.
+      - Debug production issues across services and multiple levels of the stack.
+      - Work with engineers across the company to build new features at large-scale.
+      - Improve engineering standards, tooling, and processes.
 
 - layout: left
   company: Traveloka
   link: https://www.traveloka.com
-  job_title: Backend Team Lead
-  dates: Jan 2019 – Present
+  job_title: Software Engineer
+  dates: Sep 2017 – Jan 2019
+  description: |
+    One of the early engineer who built Traveloka PayLater as a part of financial services, the product that enables trust and transparency.
+      - Building backend services, collaborating with the front-end developers and other team members to establish objectives and design more functional, cohesive codes to enhance the user experience.
+      - Design and implementation of data storage solutions. Implementation of security and data protection.
+      - Compile and analyze data, processes, and codes to troubleshoot problems and identify areas for improvement.
+
+- layout: left
+  company: Micrographics Data
+  link: https://www.micrographicsdata.com
+  job_title: Lead Software Engineer
+  dates: Feb 2014 – Aug 2017
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+    Micrographics Data is one of South-East Asia leading digital archiving solutions provider for the GLAM (galleries, libraries, archives & museum), Government and Private sector
+  description: |
+    - Develop systems and solutions for Document Management in C#
+    - Implement and develop enhancement methods for digital image processing.
+    - Research and develop machines for converting digital images to microfilm, processing exposed microfilm in C#, C and PLC.
+
+- layout: left
+  company: University of Science
+  link: https://en.hcmus.edu.vn
+  job_title: Full-stack Developer
+  dates: Dec 2011 – Feb 2014
+  quote: >
+    University of Science is a strong research and education centre of Vietnam, a major institution for training, research, science and technology, and a centre of excellence comparable to other prestigious universities in the region and worldwide
+  description: |
+    - Developed RESTful API web-service and web application in Ruby on Rails.
+    - Researched and developed fingerprint detection system in C/C++; data collection system and data mining on embedded devices for production lines in C/C++ and Ruby.
