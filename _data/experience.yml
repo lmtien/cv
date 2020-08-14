@@ -1,0 +1,20 @@
+# Experience template
+- layout: left
+  company: Traveloka
+  link: https://www.traveloka.com
+  job_title: Backend Team Lead
+  dates: Jan 2019 – Present
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role Description of role 
+
+- layout: left
+  company: Traveloka
+  link: https://www.traveloka.com
+  job_title: Backend Team Lead
+  dates: Jan 2019 – Present
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
