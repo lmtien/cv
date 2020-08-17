@@ -1,9 +1,45 @@
-# Project template
-- layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+# Project
+- layout: left-s
+  name: 2012
+  description: |
+    Graduated Bachelor of Computer Science with High Distinction grade, Salutatorian of graduation, University of Science
+
+- layout: left-s-no-margin
+  name: 2012
+  description: |
+    Achieved consolation prize in the APCS Hackathon 2012 (mobile software programming contest) at University of Science
+
+- layout: left-s-no-margin
+  name: 2010
+  description: |
+    Achieved highest score for the entrance examination to University of Science
+
+- layout: left-s-no-margin
+  name: 2007
+  description: |
+    Qualified to be an excellent student in Informatics subject in Cantho City
+
+- layout: left-s-no-margin
+  name: 2006
+  description: |
+    Bronze medal for the Informatics Contest in Mekong Delta region for good students
+
+- layout: left-s-no-margin
+  name: 2005
+  description: |
+    Awarded Scholarship from SacomBank
+
+- layout: left-s-no-margin
+  name: 2005
+  description: |
+    Silver medal in the Informatics Olympic 30th April Contest, Ho Chi Minh City
+
+- layout: left-s-no-margin
+  name: 2005
+  description: |
+    2nd prize for Creative Software Contest (professional level for high school students), Cantho City
+
+- layout: left-s-no-margin
+  name: 2004
+  description: |
+    Bronze medal in the Informatics Olympic 30th April Contest, Ho Chi Minh City

@@ -1,5 +1,5 @@
 # Education
-- layout: left
+- layout: left-s
   name: 2012 – 2014
   # dates: Date Range (eg. 2016 - 2019)
   # qualification: Master’s Degree
@@ -8,17 +8,17 @@
   description: |
     Master’s Degree in Computer Science from Vietnam National University, University of Science
 
-- layout: left
+- layout: left-s-no-margin
   name: 2010 – 2012
   description: |
     Bachelor’s Degree in Computer Science from Vietnam National University, University of Science
 
-- layout: left
+- layout: left-s-no-margin
   name: 2007 – 2008
   description: |
     Majored in International Programmer from Aptech Worldwide
 
-- layout: left
+- layout: left-s-no-margin
   name: 2004 – 2007
   description: |
     Majored in Mathematics and Informatics from Ly Tu Trong High School for Gifted Students, Vietnam
