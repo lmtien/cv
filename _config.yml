@@ -102,4 +102,4 @@ exclude : [
   "lib/",
   "scripts/",
   "docker-compose.yml",
-]
+ ]
