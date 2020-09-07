@@ -78,7 +78,7 @@ projects_title: Awards #(Use this to override about projects section title)
 footer_show_references: false
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
 remote_theme: sproogen/modern-resume-theme
 
 sass:
