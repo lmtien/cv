@@ -1,11 +1,11 @@
 # Experience
 - layout: left
-  company: Traveloka
-  link: https://www.traveloka.com
-  job_title: Backend Team Lead
-  dates: Jan 2019 – Present
+  company: Singlife
+  link: https://singlife.com
+  job_title: Senior Software Engineer
+  dates: Sep 2020 – Present
   quote: >
-    Traveloka is a leading Southeast Asia online travel company that provides a wide range of travel needs in one platform, enabling customers to create moments together with their loved ones
+    Singlife is a Singapore-based mobile savings and protection company that innovates and aims to unlock the potential of money by making financial services more convenient, transparent, accessible, affordable and reshaping Singapore’s financial services industry.
   description: |
     Managing and leading Traveloka Bill payment & Top-up project.
       - Take up the responsibility of the entire Project.
@@ -14,6 +14,20 @@
       - Debug production issues across services and multiple levels of the stack.
       - Work with engineers across the company to build new features at large-scale.
       - Improve engineering standards, tooling, and processes.
+
+- layout: left
+  company: Traveloka
+  link: https://www.traveloka.com
+  job_title: Backend Team Lead
+  dates: Jan 2019 – Sep 2020
+  quote: >
+    Singlife is a Singapore-based mobile savings and protection company that innovates and aims to unlock the potential of money by making financial services more convenient, transparent, accessible, affordable and reshaping Singapore’s financial services industry.
+  description: |
+    In charge and migrate middleware systems with 100+ microservices.
+      - Technical ownership of the platform subsystem end-to-end architecturally.
+      - Make design decisions and build platforms that are scalable, extensible, maintainable.
+      - Develop automated API testing, key-exchange with encryption solutions.
+      - Mentor junior engineers by providing technical guidance and constructive feedback.
 
 - layout: left
   company: Traveloka
@@ -29,7 +43,7 @@
 - layout: left
   company: Micrographics Data
   link: https://www.micrographicsdata.com
-  job_title: Lead Software Engineer
+  job_title: Senior Software Engineer
   dates: Feb 2014 – Aug 2017
   quote: >
     Micrographics Data is one of South-East Asia leading digital archiving solutions provider for the GLAM (galleries, libraries, archives & museum), Government and Private sector
