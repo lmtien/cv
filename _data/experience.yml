@@ -7,7 +7,7 @@
   quote: >
     Singlife is a Singapore-based mobile savings and protection company that innovates and aims to unlock the potential of money by making financial services more convenient, transparent, accessible, affordable and reshaping Singapore’s financial services industry.
   description: |
-    In charge and migrate legacy middleware systems with 100+ microservices.
+    In charge and building backend system using microservices architecture and Java.
       - Technical ownership of the platform subsystem end-to-end architecturally.
       - Make design decisions and build platforms that are scalable, extensible, maintainable.
       - Develop automated API testing, key-exchange with encryption solutions.
